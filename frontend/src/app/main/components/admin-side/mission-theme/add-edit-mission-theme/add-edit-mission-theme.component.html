@@ -1,0 +1,62 @@
+<div class="container-fluid">
+  <app-sidebar></app-sidebar>
+  <div class="content">
+    <app-header></app-header>
+    <div class="info">
+      <div class="card">
+        <div class="card-header">
+          {{ themeId ? 'Update' : 'Add' }}
+        </div>
+        <div class="card-body">
+          <form [formGroup]="missionThemeForm" (ngSubmit)="onSubmit()">
+            <div class="row" style="padding: 3px 10px 3px 10px;">
+              <input type="hidden" formControlName="id" />
+
+              <div class="form-group col-md-6 mb-3">
+                <label class="col-form-label">Theme Name</label>
+                <input
+                  type="text"
+                  formControlName="themeName"
+                  class="form-control"
+                  [class.error]="missionThemeForm.get('themeName')?.touched && missionThemeForm.get('themeName')?.hasError('required')"
+                />
+                <span class="text-danger" *ngIf="missionThemeForm.get('themeName')?.touched && missionThemeForm.get('themeName')?.hasError('required')">
+                  Theme Name is required
+                </span>
+              </div>
+
+              <div class="form-group col-md-6 mb-3">
+                <label class="col-form-label">Status</label>
+                <select
+                  class="form-select"
+                  formControlName="status"
+                  [class.error]="missionThemeForm.get('status')?.touched && missionThemeForm.get('status')?.hasError('required')"
+                >
+                  <option value="">Select Status</option>
+                  <option value="active">Active</option>
+                  <option value="inactive">InActive</option>
+                </select>
+                <div class="text-danger" *ngIf="missionThemeForm.get('status')?.touched && missionThemeForm.get('status')?.hasError('required')">
+                  Status is required
+                </div>
+              </div>
+            </div>
+
+            <div class="row justify-content-end">
+              <div class="col-auto">
+                <button class="btnCancel" type="button" (click)="onCancel()">
+                  <span class="cancel">Cancel</span>
+                </button>
+              </div>
+              <div class="col-auto">
+                <button class="btnSave" type="submit">
+                  <span class="save">Save</span>
+                </button>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

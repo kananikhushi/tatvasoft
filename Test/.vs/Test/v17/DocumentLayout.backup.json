@@ -1,0 +1,339 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Installer\\dotnet\\Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{790276FA-C14F-4512-A1E6-81322AB187BD}|Test.Api\\Test.Api.csproj|d:\\installer\\dotnet\\test\\test.api\\controllers\\missionthemecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790276FA-C14F-4512-A1E6-81322AB187BD}|Test.Api\\Test.Api.csproj|solutionrelative:test.api\\controllers\\missionthemecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C930465-182A-4601-AB52-1E3C947BC0AF}|Test.Repo\\Test.Repo.csproj|d:\\installer\\dotnet\\test\\test.repo\\missionthemerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C930465-182A-4601-AB52-1E3C947BC0AF}|Test.Repo\\Test.Repo.csproj|solutionrelative:test.repo\\missionthemerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF1B325-4F82-49B6-9B91-E89AEAD0ED08}|Test.Services\\Test.Services.csproj|d:\\installer\\dotnet\\test\\test.services\\missionskillservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF1B325-4F82-49B6-9B91-E89AEAD0ED08}|Test.Services\\Test.Services.csproj|solutionrelative:test.services\\missionskillservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF1B325-4F82-49B6-9B91-E89AEAD0ED08}|Test.Services\\Test.Services.csproj|d:\\installer\\dotnet\\test\\test.services\\missionthemeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF1B325-4F82-49B6-9B91-E89AEAD0ED08}|Test.Services\\Test.Services.csproj|solutionrelative:test.services\\missionthemeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790276FA-C14F-4512-A1E6-81322AB187BD}|Test.Api\\Test.Api.csproj|d:\\installer\\dotnet\\test\\test.api\\controllers\\missionskillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790276FA-C14F-4512-A1E6-81322AB187BD}|Test.Api\\Test.Api.csproj|solutionrelative:test.api\\controllers\\missionskillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C930465-182A-4601-AB52-1E3C947BC0AF}|Test.Repo\\Test.Repo.csproj|d:\\installer\\dotnet\\test\\test.repo\\missionskillrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C930465-182A-4601-AB52-1E3C947BC0AF}|Test.Repo\\Test.Repo.csproj|solutionrelative:test.repo\\missionskillrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790276FA-C14F-4512-A1E6-81322AB187BD}|Test.Api\\Test.Api.csproj|d:\\installer\\dotnet\\test\\test.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790276FA-C14F-4512-A1E6-81322AB187BD}|Test.Api\\Test.Api.csproj|solutionrelative:test.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73C1037-18CA-4C00-926F-51F4341ED6E0}|Test.Entities\\Test.Entities.csproj|d:\\installer\\dotnet\\test\\test.entities\\missionskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73C1037-18CA-4C00-926F-51F4341ED6E0}|Test.Entities\\Test.Entities.csproj|solutionrelative:test.entities\\missionskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73C1037-18CA-4C00-926F-51F4341ED6E0}|Test.Entities\\Test.Entities.csproj|d:\\installer\\dotnet\\test\\test.entities\\model\\missionskillmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73C1037-18CA-4C00-926F-51F4341ED6E0}|Test.Entities\\Test.Entities.csproj|solutionrelative:test.entities\\model\\missionskillmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73C1037-18CA-4C00-926F-51F4341ED6E0}|Test.Entities\\Test.Entities.csproj|d:\\installer\\dotnet\\test\\test.entities\\model\\missionthememodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73C1037-18CA-4C00-926F-51F4341ED6E0}|Test.Entities\\Test.Entities.csproj|solutionrelative:test.entities\\model\\missionthememodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF1B325-4F82-49B6-9B91-E89AEAD0ED08}|Test.Services\\Test.Services.csproj|d:\\installer\\dotnet\\test\\test.services\\adminuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF1B325-4F82-49B6-9B91-E89AEAD0ED08}|Test.Services\\Test.Services.csproj|solutionrelative:test.services\\adminuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C930465-182A-4601-AB52-1E3C947BC0AF}|Test.Repo\\Test.Repo.csproj|d:\\installer\\dotnet\\test\\test.repo\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C930465-182A-4601-AB52-1E3C947BC0AF}|Test.Repo\\Test.Repo.csproj|solutionrelative:test.repo\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73C1037-18CA-4C00-926F-51F4341ED6E0}|Test.Entities\\Test.Entities.csproj|d:\\installer\\dotnet\\test\\test.entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73C1037-18CA-4C00-926F-51F4341ED6E0}|Test.Entities\\Test.Entities.csproj|solutionrelative:test.entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73C1037-18CA-4C00-926F-51F4341ED6E0}|Test.Entities\\Test.Entities.csproj|d:\\installer\\dotnet\\test\\test.entities\\missiontheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73C1037-18CA-4C00-926F-51F4341ED6E0}|Test.Entities\\Test.Entities.csproj|solutionrelative:test.entities\\missiontheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73C1037-18CA-4C00-926F-51F4341ED6E0}|Test.Entities\\Test.Entities.csproj|d:\\installer\\dotnet\\test\\test.entities\\dtos\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73C1037-18CA-4C00-926F-51F4341ED6E0}|Test.Entities\\Test.Entities.csproj|solutionrelative:test.entities\\dtos\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790276FA-C14F-4512-A1E6-81322AB187BD}|Test.Api\\Test.Api.csproj|d:\\installer\\dotnet\\test\\test.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{790276FA-C14F-4512-A1E6-81322AB187BD}|Test.Api\\Test.Api.csproj|solutionrelative:test.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C930465-182A-4601-AB52-1E3C947BC0AF}|Test.Repo\\Test.Repo.csproj|d:\\installer\\dotnet\\test\\test.repo\\migrations\\20250710075224_addmissiontheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C930465-182A-4601-AB52-1E3C947BC0AF}|Test.Repo\\Test.Repo.csproj|solutionrelative:test.repo\\migrations\\20250710075224_addmissiontheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C930465-182A-4601-AB52-1E3C947BC0AF}|Test.Repo\\Test.Repo.csproj|d:\\installer\\dotnet\\test\\test.repo\\migrations\\20250710160109_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C930465-182A-4601-AB52-1E3C947BC0AF}|Test.Repo\\Test.Repo.csproj|solutionrelative:test.repo\\migrations\\20250710160109_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C930465-182A-4601-AB52-1E3C947BC0AF}|Test.Repo\\Test.Repo.csproj|d:\\installer\\dotnet\\test\\test.repo\\migrations\\20250711090343_intialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C930465-182A-4601-AB52-1E3C947BC0AF}|Test.Repo\\Test.Repo.csproj|solutionrelative:test.repo\\migrations\\20250711090343_intialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MissionThemeModel.cs",
+              "DocumentMoniker": "D:\\Installer\\dotnet\\Test\\Test.Entities\\Model\\MissionThemeModel.cs",
+              "RelativeDocumentMoniker": "Test.Entities\\Model\\MissionThemeModel.cs",
+              "ToolTip": "D:\\Installer\\dotnet\\Test\\Test.Entities\\Model\\MissionThemeModel.cs",
+              "RelativeToolTip": "Test.Entities\\Model\\MissionThemeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T08:09:00.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MissionThemeController.cs",
+              "DocumentMoniker": "D:\\Installer\\dotnet\\Test\\Test.Api\\Controllers\\MissionThemeController.cs",
+              "RelativeDocumentMoniker": "Test.Api\\Controllers\\MissionThemeController.cs",
+              "ToolTip": "D:\\Installer\\dotnet\\Test\\Test.Api\\Controllers\\MissionThemeController.cs",
+              "RelativeToolTip": "Test.Api\\Controllers\\MissionThemeController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAgwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T08:36:25.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MissionSkillController.cs",
+              "DocumentMoniker": "D:\\Installer\\dotnet\\Test\\Test.Api\\Controllers\\MissionSkillController.cs",
+              "RelativeDocumentMoniker": "Test.Api\\Controllers\\MissionSkillController.cs",
+              "ToolTip": "D:\\Installer\\dotnet\\Test\\Test.Api\\Controllers\\MissionSkillController.cs",
+              "RelativeToolTip": "Test.Api\\Controllers\\MissionSkillController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAUwHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T08:33:55.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminUserService.cs",
+              "DocumentMoniker": "D:\\Installer\\dotnet\\Test\\Test.Services\\AdminUserService.cs",
+              "RelativeDocumentMoniker": "Test.Services\\AdminUserService.cs",
+              "ToolTip": "D:\\Installer\\dotnet\\Test\\Test.Services\\AdminUserService.cs",
+              "RelativeToolTip": "Test.Services\\AdminUserService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAowBgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T08:41:27.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Installer\\dotnet\\Test\\Test.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Test.Api\\Program.cs",
+              "ToolTip": "D:\\Installer\\dotnet\\Test\\Test.Api\\Program.cs",
+              "RelativeToolTip": "Test.Api\\Program.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAcwHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T16:34:41.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MissionThemeService.cs",
+              "DocumentMoniker": "D:\\Installer\\dotnet\\Test\\Test.Services\\MissionThemeService.cs",
+              "RelativeDocumentMoniker": "Test.Services\\MissionThemeService.cs",
+              "ToolTip": "D:\\Installer\\dotnet\\Test\\Test.Services\\MissionThemeService.cs",
+              "RelativeToolTip": "Test.Services\\MissionThemeService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAkwD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T08:28:25.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MissionSkillService.cs",
+              "DocumentMoniker": "D:\\Installer\\dotnet\\Test\\Test.Services\\MissionSkillService.cs",
+              "RelativeDocumentMoniker": "Test.Services\\MissionSkillService.cs",
+              "ToolTip": "D:\\Installer\\dotnet\\Test\\Test.Services\\MissionSkillService.cs",
+              "RelativeToolTip": "Test.Services\\MissionSkillService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAwwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T08:44:23.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250711090343_IntialCreate.cs",
+              "DocumentMoniker": "D:\\Installer\\dotnet\\Test\\Test.Repo\\Migrations\\20250711090343_IntialCreate.cs",
+              "RelativeDocumentMoniker": "Test.Repo\\Migrations\\20250711090343_IntialCreate.cs",
+              "ToolTip": "D:\\Installer\\dotnet\\Test\\Test.Repo\\Migrations\\20250711090343_IntialCreate.cs",
+              "RelativeToolTip": "Test.Repo\\Migrations\\20250711090343_IntialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T09:03:43.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MissionSkillRepos.cs",
+              "DocumentMoniker": "D:\\Installer\\dotnet\\Test\\Test.Repo\\MissionSkillRepos.cs",
+              "RelativeDocumentMoniker": "Test.Repo\\MissionSkillRepos.cs",
+              "ToolTip": "D:\\Installer\\dotnet\\Test\\Test.Repo\\MissionSkillRepos.cs",
+              "RelativeToolTip": "Test.Repo\\MissionSkillRepos.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T08:43:59.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MissionThemeRepo.cs",
+              "DocumentMoniker": "D:\\Installer\\dotnet\\Test\\Test.Repo\\MissionThemeRepo.cs",
+              "RelativeDocumentMoniker": "Test.Repo\\MissionThemeRepo.cs",
+              "ToolTip": "D:\\Installer\\dotnet\\Test\\Test.Repo\\MissionThemeRepo.cs",
+              "RelativeToolTip": "Test.Repo\\MissionThemeRepo.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAUwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T08:02:15.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Installer\\dotnet\\Test\\Test.Repo\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Test.Repo\\AppDbContext.cs",
+              "ToolTip": "D:\\Installer\\dotnet\\Test\\Test.Repo\\AppDbContext.cs",
+              "RelativeToolTip": "Test.Repo\\AppDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T07:49:35.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MissionSkill.cs",
+              "DocumentMoniker": "D:\\Installer\\dotnet\\Test\\Test.Entities\\MissionSkill.cs",
+              "RelativeDocumentMoniker": "Test.Entities\\MissionSkill.cs",
+              "ToolTip": "D:\\Installer\\dotnet\\Test\\Test.Entities\\MissionSkill.cs",
+              "RelativeToolTip": "Test.Entities\\MissionSkill.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T08:40:53.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MissionSkillModel.cs",
+              "DocumentMoniker": "D:\\Installer\\dotnet\\Test\\Test.Entities\\Model\\MissionSkillModel.cs",
+              "RelativeDocumentMoniker": "Test.Entities\\Model\\MissionSkillModel.cs",
+              "ToolTip": "D:\\Installer\\dotnet\\Test\\Test.Entities\\Model\\MissionSkillModel.cs",
+              "RelativeToolTip": "Test.Entities\\Model\\MissionSkillModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T08:39:57.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MissionTheme.cs",
+              "DocumentMoniker": "D:\\Installer\\dotnet\\Test\\Test.Entities\\MissionTheme.cs",
+              "RelativeDocumentMoniker": "Test.Entities\\MissionTheme.cs",
+              "ToolTip": "D:\\Installer\\dotnet\\Test\\Test.Entities\\MissionTheme.cs",
+              "RelativeToolTip": "Test.Entities\\MissionTheme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T07:44:06.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Installer\\dotnet\\Test\\Test.Entities\\User.cs",
+              "RelativeDocumentMoniker": "Test.Entities\\User.cs",
+              "ToolTip": "D:\\Installer\\dotnet\\Test\\Test.Entities\\User.cs",
+              "RelativeToolTip": "Test.Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T17:29:01.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserDetails.cs",
+              "DocumentMoniker": "D:\\Installer\\dotnet\\Test\\Test.Entities\\DTOs\\UserDetails.cs",
+              "RelativeDocumentMoniker": "Test.Entities\\DTOs\\UserDetails.cs",
+              "ToolTip": "D:\\Installer\\dotnet\\Test\\Test.Entities\\DTOs\\UserDetails.cs",
+              "RelativeToolTip": "Test.Entities\\DTOs\\UserDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T06:35:56.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250710160109_Create.cs",
+              "DocumentMoniker": "D:\\Installer\\dotnet\\Test\\Test.Repo\\Migrations\\20250710160109_Create.cs",
+              "RelativeDocumentMoniker": "Test.Repo\\Migrations\\20250710160109_Create.cs",
+              "ToolTip": "D:\\Installer\\dotnet\\Test\\Test.Repo\\Migrations\\20250710160109_Create.cs",
+              "RelativeToolTip": "Test.Repo\\Migrations\\20250710160109_Create.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T16:01:10.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Installer\\dotnet\\Test\\Test.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Test.Api\\appsettings.json",
+              "ToolTip": "D:\\Installer\\dotnet\\Test\\Test.Api\\appsettings.json",
+              "RelativeToolTip": "Test.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-10T15:52:15.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250710075224_AddMIssionTheme.cs",
+              "DocumentMoniker": "D:\\Installer\\dotnet\\Test\\Test.Repo\\Migrations\\20250710075224_AddMIssionTheme.cs",
+              "RelativeDocumentMoniker": "Test.Repo\\Migrations\\20250710075224_AddMIssionTheme.cs",
+              "ToolTip": "D:\\Installer\\dotnet\\Test\\Test.Repo\\Migrations\\20250710075224_AddMIssionTheme.cs",
+              "RelativeToolTip": "Test.Repo\\Migrations\\20250710075224_AddMIssionTheme.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T07:52:25.15Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

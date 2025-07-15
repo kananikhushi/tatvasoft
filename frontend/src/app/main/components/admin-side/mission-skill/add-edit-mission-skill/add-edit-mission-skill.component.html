@@ -1,0 +1,82 @@
+<div class="container-fluid">
+  <app-sidebar></app-sidebar>
+  <div class="content">
+    <app-header></app-header>
+    <div class="info">
+      <div class="card">
+        <div class="card-header">
+          {{ skillId ? 'Update' : 'Add' }} Skill
+        </div>
+        <div class="card-body">
+          <form [formGroup]="missionSkillForm" (ngSubmit)="onSubmit()">
+            <input type="hidden" formControlName="id" />
+
+            <div class="row mb-3">
+              <div class="form-group col-sm-6">
+                <label class="col-form-label">Skill Name</label>
+                <input
+                  type="text"
+                  formControlName="skillName"
+                  class="form-control"
+                  [class.error]="
+                    missionSkillForm.get('skillName')?.touched &&
+                    missionSkillForm.get('skillName')?.hasError('required')
+                  "
+                  required
+                />
+                <span
+                  class="text-danger"
+                  *ngIf="
+                    missionSkillForm.get('skillName')?.touched &&
+                    missionSkillForm.get('skillName')?.hasError('required')
+                  "
+                >
+                  Skill Name is required
+                </span>
+              </div>
+
+              <div class="form-group col-sm-6">
+                <label class="col-form-label">Status</label>
+                <select
+                  class="form-select"
+                  formControlName="status"
+                  [class.error]="
+                    missionSkillForm.get('status')?.touched &&
+                    missionSkillForm.get('status')?.hasError('required')
+                  "
+                  required
+                >
+                  <option value="">Select Status</option>
+                  <option value="active">Active</option>
+                  <option value="inactive">Inactive</option>
+                </select>
+                <span
+                  class="text-danger"
+                  *ngIf="
+                    missionSkillForm.get('status')?.touched &&
+                    missionSkillForm.get('status')?.hasError('required')
+                  "
+                >
+                  Status is required
+                </span>
+              </div>
+            </div>
+
+            <div class="row justify-content-end">
+              <div class="col-auto">
+                <button class="btnCancel" type="button" (click)="onCancel()">
+                  <span class="cancel">Cancel</span>
+                </button>
+              </div>
+              <div class="col-auto">
+                <button class="btnSave" type="submit">
+                  <span class="save">Save</span>
+                </button>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
